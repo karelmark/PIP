@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\WebSetup1\", ".", "{4569B6B4-AE66-46FA-843A-A73B9A244E4E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/WebSetup1"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\WebSetup1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSetup1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSetup1"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\WebSetup1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSetup1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1934"
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PIP", "PIP\PIP.vdproj", "{28D2581F-A0C5-48F6-A750-B3592FA9180F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Release|.NET = Release|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4569B6B4-AE66-46FA-843A-A73B9A244E4E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{4569B6B4-AE66-46FA-843A-A73B9A244E4E}.Debug|.NET.Build.0 = Debug|.NET
+		{4569B6B4-AE66-46FA-843A-A73B9A244E4E}.Release|.NET.ActiveCfg = Debug|.NET
+		{4569B6B4-AE66-46FA-843A-A73B9A244E4E}.Release|.NET.Build.0 = Debug|.NET
+		{28D2581F-A0C5-48F6-A750-B3592FA9180F}.Debug|.NET.ActiveCfg = Debug
+		{28D2581F-A0C5-48F6-A750-B3592FA9180F}.Release|.NET.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
